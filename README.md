@@ -1,6 +1,6 @@
 # rescname
 
-Use custom domain for Cloudinary Res. Example: https://imgw3teal.vercel.app/image/upload/v1740793104/W3_fill_wdy6ow.png
+Use custom domain for Cloudinary Res. Example: https://img-w3teal.vercel.app/image/upload/v1740793104/W3_fill_wdy6ow.png
 
 ## Why?
 
